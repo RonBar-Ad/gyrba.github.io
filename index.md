@@ -1,7 +1,3 @@
-<header>
-Ron Bar-Ad Portfolio
-</header>
-<main>
 # Ron Bar-Ad
 
 Ron Bar-Ad is a PhD student with the Data Analytics Centre for Doctoral Training in Manchester, England. He has a BSc in Software Development, not that you should hold that against him, and he desperately loves talking about himself.
@@ -24,4 +20,3 @@ Some agents are cannibals, and at the end of each round they will eat a neighbou
 The code comes in two parts: [the model](https://github.com/RonBar-Ad/gyrba.github.io/blob/master/model.py) and [the agent framework](https://github.com/RonBar-Ad/gyrba.github.io/blob/master/agentframework.py)
 
 You should also download the [input text file](href="https://github.com/RonBar-Ad/gyrba.github.io/blob/master/in.txt) and store it in the same folder under the name "in.txt".
-</main>
